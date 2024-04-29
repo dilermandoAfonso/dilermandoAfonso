@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dilermandoAfonso
 - 👀 I’m interested in back-end
-- 🌱 I’m currently studying system analysis and development 
+- 🌱 I’m currently studying analysis and development of systems 
 - 💞️ I’m looking to collaborate on beginner-level back-end projects
 - 📫 How to reach me dilermando.brito@gmail.com
 
