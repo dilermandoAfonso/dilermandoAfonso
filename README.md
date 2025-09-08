@@ -9,7 +9,7 @@ No início da minha jornada acadêmica, tive contato com lógica de programaçã
 
 Em Banco de Dados, já utilizei SQL Server, PostgreSQL, Supabase e MongoDB.
 
-Meu sonho (e objetivo, se estiver ao meu alcance) é o de contribuir com tecnologias que se integrem ao meio ambiente, estabelecendo uma relação simbiótica com a natureza, em vez de degradá-la por meio da extração de recursos e do extrativismo predatório. 🌱
+Meu sonho é o de contribuir com tecnologias que se integrem ao meio ambiente, estabelecendo uma relação simbiótica com a natureza, em vez de degradá-la por meio da extração de recursos e do extrativismo predatório. 🌱
 
 As tecnologias que estou focado no momento são:
 
