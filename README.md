@@ -1,5 +1,5 @@
 
-# <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="60"> Dilermando Afonso - Desenvolvedor Jr. 
+# <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="60"> Dilermando Afonso - Desenvolvedor. 
 
 Olá, tudo certinho? 😄
 
